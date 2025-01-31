@@ -10,5 +10,5 @@ This project aims to provide real-time tennis insights, player stats, rankings, 
 ![data transfer](https://github.com/user-attachments/assets/306b6d86-c5c8-4688-bd0a-7ba0ed33b28c)
 ## Adding datatypes and constraints to the individual columns  
 ![sql dataa](https://github.com/user-attachments/assets/07c22b63-c8c6-4ce7-a9ba-0a403a718ecd)
-## Tennis Explorer - Streamlit
+## Tennis Explorer Streamlit - Webpage
 ![Web page](https://github.com/user-attachments/assets/a96bf8b0-737a-4167-a524-291ad9e91e10)
