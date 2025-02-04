@@ -23,7 +23,7 @@ where category_name = 'ITF Men'
 
 -- 5. Identify parent competitions and their sub-competitions
 
-select child.competition_name AS sub_competition,parent.competition_name AS parent_competition
+select child.competition_name as sub_competition,parent.competition_name as parent_competition
 from competitions_table child left join competitions_table parent on child.parent_id = parent.competition_id
 order by parent_competition, sub_competition 
 
